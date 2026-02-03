@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Keyboard is automatically hidden after the user hits the guess button to improve UI.
+* [x] Keyboard is automatically hidden after the user hits the guess button to improve UI.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
